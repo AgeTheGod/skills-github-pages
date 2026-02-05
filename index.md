@@ -5,6 +5,9 @@ childGroups:
   - name: Blogs
     children:
       _posts/2026-02-05-Importance-Of-Names
+versions:
+  fpt: '*'
+  ghes: '>=3.11'
 ---
 ##  Motivation
 
