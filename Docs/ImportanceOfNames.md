@@ -4,6 +4,10 @@ description: An explanation for why names are important and and guidelines for h
 
 date: 2026-02-06
 ---
+#   Importance Of Names
+
+H1 should match the "title" of the page
+
 ##  Start of text
 I have lots of opinions about the naming of things
 
