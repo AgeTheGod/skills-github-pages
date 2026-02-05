@@ -4,11 +4,10 @@ description: Yet Another Architecture Framework Test Page
 children:
   SomeNewFile.md
 childGroups:
-  - name: Blogs
+  - name: Docs
     children:
-      _posts/Importance-Of-Names
-  - Docs
-      Docs/index  
+      Docs/index
+      Docs/ImportanceOfNames
 versions:
   fpt: '*'
   ghes: '>=3.11'

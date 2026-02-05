@@ -7,4 +7,4 @@ children:
 
 Should contain a list of all pages in this folder
 
-[ImportanceOfNames](ImportanceOfNames)
+[ImportanceOfNames](ImportanceOfNames.md)
