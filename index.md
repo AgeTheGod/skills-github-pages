@@ -1,6 +1,8 @@
 ---
 title: Yet Another Architecture Framework Test
 description: Yet Another Architecture Framework Test Page
+children:
+  SomeNewFile.md
 childGroups:
   - name: Blogs
     children:
