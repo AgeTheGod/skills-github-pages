@@ -1,6 +1,6 @@
 ---
 title: Inportance Of Names
-date: 2026/02/06
+date: 2026-02-06
 ---
 
 I have lots of opinions about the naming of things
