@@ -7,6 +7,8 @@ childGroups:
   - name: Blogs
     children:
       _posts/Importance-Of-Names
+  - Docs
+      Docs/index  
 versions:
   fpt: '*'
   ghes: '>=3.11'
