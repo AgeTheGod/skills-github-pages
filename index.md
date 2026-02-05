@@ -25,9 +25,9 @@ It's always been my belief that all Application Architecture should be Objective
 
 Hopefully some of this is of use to someone else and if not then at least it will be of use to me as a reference for my own work.
 
-... and a link to [SomeNewFile.md](SomeNewFile.md)
+... and a link to [SomeNewFile](SomeNewFile.md)
 
-... and a sub-folder index [index.md](_posts/index.md)
+... and a sub-folder index [index](Docs/index.md)
 
-... and a specific sub-folder page [ImportanceOfNames.md](_posts/2026-02-05-Importance-Of-Names.md)
+... and a specific sub-folder page [ImportanceOfNames](Docs/ImportanceOfNames.md)
 
