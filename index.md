@@ -2,7 +2,9 @@
 title: Yet Another Architecture Framework Test
 description: Yet Another Architecture Framework Test Page
 childGroups:
-  -  _posts
+  - name: Blogs
+    children:
+      _posts/2026-02-05-Importance-Of-Names
 ---
 ##  Motivation
 
