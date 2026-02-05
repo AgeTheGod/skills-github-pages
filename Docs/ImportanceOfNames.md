@@ -1,8 +1,10 @@
 ---
-title: Inportance Of Names
+title: Importance Of Names
+description: An explanation for why names are important and and guidelines for how to name things depending on what kind of thing is being named.
+
 date: 2026-02-06
 ---
-
+##  Start of text
 I have lots of opinions about the naming of things
 
 ##  Naming Principles
