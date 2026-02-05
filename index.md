@@ -24,3 +24,4 @@ It's always been my belief that all Application Architecture should be Objective
 
 Hopefully some of this is of use to someone else and if not then at least it will be of use to me as a reference for my own work.
 
+... and a link to [SomeNewFile.md](SomeNewFile.md)
